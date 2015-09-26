@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GamerSourceBot", "GamerSourceBot\GamerSourceBot.csproj", "{448A85A7-4553-42C5-99E1-8E29DF3242B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GamerConsole", "GamerConsole\GamerConsole.csproj", "{32B9FECE-ABD2-46A0-85BA-68AFA4B432E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{448A85A7-4553-42C5-99E1-8E29DF3242B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{448A85A7-4553-42C5-99E1-8E29DF3242B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{448A85A7-4553-42C5-99E1-8E29DF3242B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{448A85A7-4553-42C5-99E1-8E29DF3242B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32B9FECE-ABD2-46A0-85BA-68AFA4B432E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32B9FECE-ABD2-46A0-85BA-68AFA4B432E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32B9FECE-ABD2-46A0-85BA-68AFA4B432E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32B9FECE-ABD2-46A0-85BA-68AFA4B432E7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
